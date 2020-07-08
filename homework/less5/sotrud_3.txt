@@ -1,0 +1,5 @@
+Ivanov 15000
+Sidorov 34000
+Gerbert 74000
+Petrov 7000
+Golshtein 112000
